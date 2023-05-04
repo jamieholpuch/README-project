@@ -40,7 +40,7 @@ const questions = () => {
     {
         type: 'list',
         message: 'Which license would you like to include?',
-        choices: ['None', 'Academic Free', 'Apache 2.0', 'Artistic', 'BSD', 'Creative Commons', 'Educational Community', 'Eclipse', 'GNU', 'ISC', 'MIT', 'Mozilla', 'SIL', 'zLib'],
+        choices: ['None', 'Apache 2.0', 'GNU GPL v3', 'MIT', 'zLib'],
         name: 'license',
     },
     {
@@ -71,7 +71,7 @@ const questions = () => {
 // TODO: Create a function to initialize app
 function init() {
     questions()
-    .then((data) => writeFile(`'README_${data.title}.md'`, generateMarkdown(data)))
+    .then((data) => writeFile(`README_${data.title}.md`, generateMarkdown(data)))
     .then(() => console.log('Successfully wrote to markdown.md'))
     .catch((err) => console.error(err));
 };
