@@ -18,7 +18,6 @@ function renderLicenseBadge(licenseType) {
     let licenseBadge = '[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)'
     return licenseBadge  
   } else if (licenseType === "GNU GPL v3") {
-    console.log("GNU")
     let licenseBadge = '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)'
     return licenseBadge
   } else if (licenseType === "MIT") {
@@ -47,7 +46,7 @@ function generateMarkdown(data) {
   [${data.table_contents[2]}](#license)\n
   [${data.table_contents[3]}](#contributing)\n
   [${data.table_contents[4]}](#tests)\n
-  [${data.table_contents[4]}](#questions)\n
+  [${data.table_contents[5]}](#questions)\n
   
   <a name="installation"></a>
   ## Installation 
@@ -62,7 +61,7 @@ function generateMarkdown(data) {
   The license in use for this application is ${data.license}. 
   
   <a name="contributing"></a> 
-  ## Contributing\
+  ## Contributing
   ${data.contributing}
   
   <a name="tests"></a> 
@@ -72,7 +71,7 @@ function generateMarkdown(data) {
   <a name="questions"></a> 
   ## Questions 
   If you have questions, please contact:\n
-  GitHub: <https:////github.com/${data.username}>
+  GitHub: <https:////github.com/${data.username}>\n
   Email: ${data.email}`
 };
 

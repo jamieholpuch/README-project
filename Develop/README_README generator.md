@@ -1,47 +1,49 @@
 # README generator
   
   ## License Badge
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
-  This project generates a readme file with prompts
+  This application automatically generates a README file by utilizing prompts
   
   ## Table of Contents 
   [Installation](#installation)
 
-  [undefined](#usage)
+  [Usage](#usage)
 
-  [undefined](#license)
+  [Contributing](#license)
 
-  [undefined](#contributing)
+  [License](#contributing)
 
-  [undefined](#tests)
+  [Tests](#tests)
 
-  [undefined](#questions)
+  [Questions](#questions)
 
   
   <a name="installation"></a>
   ## Installation 
-  Type npm i into your terminal and then node index.js to run 
+  To install, type "npm i inquirer@8.2.4" into your terminal to install the Inquirer package
   
   <a name="usage"></a> 
   ## Usage
-  Run node index.js and then answer the prompts to generate your README file
+  To use, type "node index.js" into your terminal and answer the subsequent prompts
   
   <a name="license"></a> 
   ## License 
-  The license in use for this application is MIT. 
+  The license in use for this application is Apache 2.0. 
   
   <a name="contributing"></a> 
-  ## Contributing  Email me via contact below
+  ## Contributing
+  Email me to contribute
   
   <a name="tests"></a> 
   ## Tests 
-  none
+  None at this time
   
   <a name="questions"></a> 
   ## Questions 
   If you have questions, please contact:
-  jamieholpuch
-  
-  jamieholpuch@gmail.com
+
+  GitHub: <https:////github.com/jamieholpuch>
+
+  Email: jamieholpuch@gmail.com
