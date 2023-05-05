@@ -63,10 +63,6 @@ const questions = () => {
 
 
 // TODO: Create a function to write README file
-// function writeToFile(fileName, data) {
-//     const path = "./Develop/output/"
-//     return writeFile(path+fileName, markdownTemplate(data))
-// }
 
 // TODO: Create a function to initialize app
 function init() {

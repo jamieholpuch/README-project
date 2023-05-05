@@ -1,10 +1,10 @@
-# fjdk
+# jamie readme
   
   ## License Badge
-  
+  [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
   ## Description
-  fjdk
+  Thf
   
   ## Table of Contents 
   [Installation](#installation)
@@ -22,26 +22,28 @@
   
   <a name="installation"></a>
   ## Installation 
-  jles;
+  ste
   
   <a name="usage"></a> 
   ## Usage
-  fkdl
+  k
   
   <a name="license"></a> 
   ## License 
-  The license in use for this application is GNU GPL v3. 
+  The license in use for this application is Apache 2.0. 
   
   <a name="contributing"></a> 
-  ## Contributing  fkdl
+  ## Contributing  k
   
   <a name="tests"></a> 
   ## Tests 
-  
+  fd
   
   <a name="questions"></a> 
   ## Questions 
   If you have questions, please contact:
-  jfdkls
+
+  GitHub:
+  jamieholpuch(https:////github.com/jamieholpuch)
   
-  fjdk
+  jamieholpuch@gmail.com
