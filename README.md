@@ -2,6 +2,10 @@
 
   ## Description
   This project is a README generator that automatically creates a README based on prompts. 
+  <https://github.com/jamieholpuch/README-project>
+
+  ![terminal](./Develop/terminal.png)
+  ![readme_generator](./Develop/readme_generator.png)
   
   ## Installation 
   To install, type "npm i" and install the packages into your terminal. 
